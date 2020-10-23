@@ -10,7 +10,7 @@ https://codepen.io/scottjehl/pen/NWrdRQv
 
 ## Usage
 
-1. Wrap a `<c-q></cq>` element around your HTML and add any classes or attributes you might need to it, such as `<c-q class="my-content"></cq>`. 
+1. Wrap a `<c-q></c-q>` element around your HTML and add any classes or attributes you might need to it, such as `<c-q class="my-content"></cq>`. 
 2. Load the JavaScript module `<script src="path-to/cq.js" type="module"></script>`
 3. Start writing the CSS...
 
