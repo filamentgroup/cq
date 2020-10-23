@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "name": "@filamentgroup/cq",
+  "homepage": "https://github.com/filamentgroup/cq/",
+  "author": {
+    "name": "Filament Group",
+    "email": "thegroup@filamentgroup.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/filamentgroup/cq.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filamentgroup/cq/issues/"
+  },
+  "main": "cq.js"
+}
