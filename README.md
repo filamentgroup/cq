@@ -10,7 +10,11 @@ https://codepen.io/scottjehl/pen/NWrdRQv
 
 ## Usage
 
-To use, set a given `c-q`'s `--breakpoints;` custom CSS property to one or more pixel-based breakpoints that the JS should be aware of, like this:
+1. Wrap a `<c-q></cq>` element around your HTML and add any classes or attributes you might need to it, such as `<c-q class="my-content"></cq>`. 
+2. Load the JavaScript module `<script src="path-to/cq.js" type="module"></script>`
+3. Start writing the CSS...
+
+To use, set a given `c-q`'s `--breakpoints;` custom CSS property to one or more pixel-based breakpoint widths that the JS should be aware of, like this:
 
 ```css
 c-q { --breakpoints: "400 600 800"; }
